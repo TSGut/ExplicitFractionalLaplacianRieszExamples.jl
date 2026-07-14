@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1299628015.svg)](https://doi.org/10.5281/zenodo.21360097)
+
 # ExplicitFractionalLaplacianRieszExamples.jl
 
 Companion numerical validation for
